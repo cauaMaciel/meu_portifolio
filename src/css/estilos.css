@@ -152,7 +152,10 @@ body {
 
 .projetos .projeto.ativo {
     display: block;
+
 }
+
+
 
 .projetos .projeto img {
     height: 100%;
